@@ -17,9 +17,10 @@ Here’s an introductory **VIDEO** DEMO on how to use the UMSAKAZO board:
 
 -------
 
-# You can now buy it at [https://www.rootkit.es ![](stuff/images/comp.jpg)](https://www.rootkit.es/) 
+# You can now buy it at [https://www.rootkit.es ![](stuff/images/comp.jpg)]([https://www.rootkit.es/](https://www.elecrow.com/umsakazo-rf-training-board-for-nanovna.html)) 
 
-## **Available in July 2026**
+If you register on Elecrow using this link before buying the product, you’ll help me support and maintain this project even more:
+- [https://www.elecrow.com/referral-program/OTI1MDhqMnQ/](https://www.elecrow.com/referral-program/OTI1MDhqMnQ/)
 
 -------
 
