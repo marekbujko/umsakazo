@@ -1,7 +1,7 @@
 # umsakazo
 NanoVNA RF Learning board - RF demo kit SMA training (All MIT License, design files will be released by the end of 2027)
 
-# You can now buy it at [https://www.rootkit.es ![](stuff/images/comp.jpg)](https://www.elecrow.com/umsakazo-rf-training-board-for-nanovna.html)
+## You can now buy it at [https://www.rootkit.es ![](stuff/images/comp.jpg)](https://www.elecrow.com/umsakazo-rf-training-board-for-nanovna.html)
 
 If you register on Elecrow using this link before buying the product, you’ll help me support and maintain this project even more:
 - [https://www.elecrow.com/referral-program/OTI1MDhqMnQ/](https://www.elecrow.com/referral-program/OTI1MDhqMnQ/)
