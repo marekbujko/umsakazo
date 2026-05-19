@@ -23,6 +23,10 @@ Here’s an introductory **VIDEO** DEMO on how to use the UMSAKAZO board:
 
 [https://youtu.be/kYVsM9EE5ec ![](stuff/images/videocover.jpg)](https://youtu.be/kYVsM9EE5ec)
 
+-------
+
+# Frequency range for each demo
+
 ![](stuff/images/front_freqs.jpg)
 
 -------
