@@ -5,6 +5,7 @@ NanoVNA RF Learning board - RF demo kit SMA training (All MIT License, design fi
 
 If you register on Elecrow using this link before buying the product, you’ll help me support and maintain this project even more:
 - [https://www.elecrow.com/referral-program/OTI1MDhqMnQ/](https://www.elecrow.com/referral-program/OTI1MDhqMnQ/)
+- [https://www.elecrow.com/umsakazo-rf-training-board-for-nanovna.html](https://www.elecrow.com/umsakazo-rf-training-board-for-nanovna.html)
 
 -------
 
